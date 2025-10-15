@@ -178,5 +178,8 @@ App URL: http://localhost:8501
 
 - https://www.youtube.com/watch?v=I1qQPoRf7i4&feature=youtu.be
 
+- <img width="2880" height="1708" alt="image" src="https://github.com/user-attachments/assets/2bf42b07-848b-4dc4-b830-ff78493439b9" />
+
+
 
 Built with ❤️ by Rithika Gurram as part of PM Accelerator AI Engineer Bootcamp

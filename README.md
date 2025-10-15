@@ -176,9 +176,9 @@ App URL: http://localhost:8501
 
 - Shows all major features from Tech Assessment 1 & 2, including weather display, CRUD operations, API integrations, and exports.
 
-- https://www.youtube.com/watch?v=I1qQPoRf7i4&feature=youtu.be
+  https://www.youtube.com/watch?v=I1qQPoRf7i4&feature=youtu.be
+<img width="2880" height="1544" alt="image" src="https://github.com/user-attachments/assets/2ec2aa4e-5658-4614-87b0-cfe0205eba70" />
 
-- <img width="2880" height="1708" alt="image" src="https://github.com/user-attachments/assets/2bf42b07-848b-4dc4-b830-ff78493439b9" />
 
 
 

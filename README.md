@@ -5,7 +5,7 @@
 **Backend:** FastAPI  
 **Database:** SQLite (via SQLAlchemy ORM)  
 **APIs Used:** Open-Meteo, ipapi.co, YouTube Data API, Google Custom Search, Google Maps Embed  
-**Weather APP Link: https://nonmanipulative-unerrantly-carla.ngrok-free.dev/
+**Weather APP Link:** https://nonmanipulative-unerrantly-carla.ngrok-free.dev/
 
 
 ## 🧭 Overview  
